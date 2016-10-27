@@ -1,0 +1,4 @@
+@echo off
+title My First Batch File
+echo whats up!
+pause
